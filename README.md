@@ -1,2 +1,2 @@
 # FirstRepository
-first Github repository
+this is the first Github repository for learning purpose
